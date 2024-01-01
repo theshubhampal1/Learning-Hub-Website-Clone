@@ -1,0 +1,46 @@
+.nav1 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.col-sm-3 ul {
+    list-style: none;
+}
+
+.col-sm-3 ul>li {
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.col-sm-3 ul a {
+    text-decoration: none;
+    color: #8e969b;
+    font-size: 12px;
+}
+
+.col-sm-3 ul a li {
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+
+hr {
+    margin-top: 7px;
+}
+
+.icon1 {
+    height: 35px;
+    width: 35px;
+    padding: 3%;
+    border-radius: 50px;
+    background: rgba(66, 66, 66, 0.6);
+    font-size: 18px;
+}
+
+a {
+    color: white;
+}
